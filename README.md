@@ -5,6 +5,10 @@ The "Product Analysis" project focuses on analyzing customer transactions to gai
 2.	To identify top-performing product categories and subcategories.
 3.	To evaluate sales trends across different store types and locations.
 4.	To provide actionable insights for improving product offerings and sales strategies.
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/Questions.txt">View Questions Related to datasets</a>
+
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/model.png">View Table Model</a>
+
 ________________________________________
 ## Project Process:
 1.	Data Collection & Setup:
@@ -21,7 +25,10 @@ ________________________________________
 -	Uncovered seasonal trends in product sales.
 -	Evaluated how product subcategories performed across different cities and store types.
 ## Datasets used:
-- <a href=" ">View datasets</a>
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/Customer.xlsx">View Customers datasets</a>
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/transactions.xlsx">View transactions datasets</a>
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/product%20category%20info.xlsx">View Product category info datasets</a>
+
 ________________________________________
 ## Insights:
 1.	Customer Behavior:
@@ -37,6 +44,9 @@ ________________________________________
 -	The analysis helped identify high-demand products, improving inventory management.
 -	Allowed for a deeper understanding of customer segmentation and marketing opportunities.
 -	Provided strategies to optimize product placement and promotional activities based on sales trends.
+
+- <a href="https://github.com/nehajadhav-projects/Product-analysis/blob/main/product%20sql%20analysis.sql">View My Work</a>
+
 ________________________________________
 ## Recommendations:
 1.	Focus marketing campaigns on top-performing cities and store types.
