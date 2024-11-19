@@ -23,19 +23,18 @@ o	Evaluated how product subcategories performed across different cities and stor
 ________________________________________
 ## Insights:
 1.	Customer Behavior:
-o	Young adults (age 20-35) were the most active shoppers.
-o	Gender-wise, preferences differed significantly, with certain categories dominating each segment.
+-	Gender-wise, preferences differed significantly, with certain categories dominating each segment.
 2.	Product Performance:
-o	Subcategories like "Electronics Accessories" and "Fashion Apparel" had the highest sales.
-o	Certain subcategories performed better in specific cities, indicating location-based preferences.
+-	Subcategories like "Electronics Accessories" and "Fashion Apparel" had the highest sales.
+-	Certain subcategories performed better in specific cities, indicating location-based preferences.
 3.	Sales Trends:
-o	Sales peaked during holiday seasons, with a notable spike in December.
-o	Store types like "Malls" outperformed smaller store setups for high-value products.
+-	Sales peaked during holiday seasons, with a notable spike in December.
+-	Store types like "Malls" outperformed smaller store setups for high-value products.
 ________________________________________
 ## Impact:
-•	The analysis helped identify high-demand products, improving inventory management.
-•	Allowed for a deeper understanding of customer segmentation and marketing opportunities.
-•	Provided strategies to optimize product placement and promotional activities based on sales trends.
+-	The analysis helped identify high-demand products, improving inventory management.
+-	Allowed for a deeper understanding of customer segmentation and marketing opportunities.
+-	Provided strategies to optimize product placement and promotional activities based on sales trends.
 ________________________________________
 ## Recommendations:
 1.	Focus marketing campaigns on top-performing cities and store types.
