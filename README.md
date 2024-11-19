@@ -8,18 +8,18 @@ The "Product Analysis" project focuses on analyzing customer transactions to gai
 ________________________________________
 ## Project Process:
 1.	Data Collection & Setup:
-o	Designed and populated relational tables in MySQL to simulate real-world e-commerce or retail data.
+-	Designed and populated relational tables in MySQL to simulate real-world e-commerce or retail data.
 2.	Data Exploration:
-o	Used SQL queries to clean, filter, and join the data for exploration.
-o	Analyzed customer demographics like age groups and gender preferences.
+-	Used SQL queries to clean, filter, and join the data for exploration.
+-	Analyzed customer demographics like age groups and gender preferences.
 3.	Data Analysis:
-o	Identified top product categories, subcategories, and their contribution to revenue.
-o	Evaluated transaction trends by date, store type, and city.
-o	Calculated average transaction value, tax impact, and sales by customer segments.
+-	Identified top product categories, subcategories, and their contribution to revenue.
+-	Evaluated transaction trends by date, store type, and city.
+-	Calculated average transaction value, tax impact, and sales by customer segments.
 4.	Insight Derivation:
-o	Segmented customers by purchase frequency and product preferences.
-o	Uncovered seasonal trends in product sales.
-o	Evaluated how product subcategories performed across different cities and store types.
+-	Segmented customers by purchase frequency and product preferences.
+-	Uncovered seasonal trends in product sales.
+-	Evaluated how product subcategories performed across different cities and store types.
 ________________________________________
 ## Insights:
 1.	Customer Behavior:
