@@ -20,6 +20,8 @@ ________________________________________
 -	Segmented customers by purchase frequency and product preferences.
 -	Uncovered seasonal trends in product sales.
 -	Evaluated how product subcategories performed across different cities and store types.
+## Datasets used:
+- <a href=" ">View datasets</a>
 ________________________________________
 ## Insights:
 1.	Customer Behavior:
